@@ -1,0 +1,25 @@
+.category {
+    transition: 0.5s;
+  }
+  
+.category:hover {
+    transform: scale(1.04);
+    transition: 0.5s;
+    cursor: pointer;
+  }
+  
+.btnTickets {
+    width: 100% !important;
+    padding: 0.5rem 0 !important;
+  }
+  
+.totalPay {
+    background-color: #cce5ff !important;
+  }
+  .aTickets{
+    background-color: #1d4358;
+    color: white;
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+  }

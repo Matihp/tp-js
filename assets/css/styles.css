@@ -1,0 +1,36 @@
+.logo-cac {
+  width: 75px;
+}
+a {
+  text-decoration: none !important;
+}
+a:hover{
+  color: white !important;
+}
+.formName{
+  display: flex;
+  justify-content: space-between;
+}
+.formInput{
+  border-radius: 3px;
+  width: 260px;
+}
+.containerFinal{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  align-items: end;
+  color: white;
+}
+footer{
+background-color: rgb(66, 94, 139);
+color: azure;
+min-height: 10vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+textarea{
+  height: 200px;
+  resize: none !important;
+}
